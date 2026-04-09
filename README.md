@@ -1,4 +1,4 @@
-# SWE Internships Summer 2027
+# Summer 2027 Software Engineering Internships
 
 A curated list of Summer 2027 software engineering internships so you can be the first to apply
 
