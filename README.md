@@ -2,6 +2,8 @@
 
 A curated list of Summer 2027 software engineering internships. Updated regularly.
 
+Still need expiernace? Check out these recruiting events and other opportunities to build your resume in the meantime! [Company Events](https://github.com/hiredmaybe67/csmajors-swe-opportunities/tree/main)
+
 ---
 
 ## Internships
