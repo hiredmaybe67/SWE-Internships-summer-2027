@@ -1,10 +1,14 @@
-# Summer 2027 Software Engineering Internships
+# 🚀 Summer 2027 Software Engineering Internships (SWE Internships List)
 
-A curated list of Summer 2027 software engineering internships so you can be the first to apply
+Updated list of Summer 2027 software engineering internships, quant internships, and tech internships. Be the first to apply to top companies like BlackRock, Citadel, and more.
 
-Still need expiernace? Check out these recruiting events and other opportunities to build your resume in the meantime! [Company Events](https://github.com/hiredmaybe67/csmajors-swe-opportunities/tree/main)
+Looking to land a SWE internship in 2027? This page tracks early openings, application timelines, and direct links so you don’t miss deadlines.
 
-Get notified when top companies open SWE internships → [Sign up for email notifications](https://forms.gle/kgpR4Agk8C3sAwgN8)
+👉 Need experience before applying? Check out resume-building opportunities, recruiting events, and programs here:
+[Company Events & Resume Builders](https://github.com/hiredmaybe67/csmajors-swe-opportunities/tree/main)
+
+📩 Get notified when top SWE internships open:
+[Sign up for email alerts](https://forms.gle/kgpR4Agk8C3sAwgN8)
 
 ---
 
