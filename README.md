@@ -1,6 +1,6 @@
 # SWE Internships Summer 2027
 
-A curated list of Summer 2027 software engineering internships. Updated regularly.
+A curated list of Summer 2027 software engineering internships so you can be the first to apply
 
 Still need expiernace? Check out these recruiting events and other opportunities to build your resume in the meantime! [Company Events](https://github.com/hiredmaybe67/csmajors-swe-opportunities/tree/main)
 
