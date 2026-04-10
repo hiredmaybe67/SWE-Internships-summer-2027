@@ -1,12 +1,13 @@
-<div class="intro">
+<div>
 
-💡[Tips](info/README.md) and past interview questions from people who actually interviewed and got interviews available under the tips column.
-
-👉 [Company Events & Resume Builders](https://github.com/hiredmaybe67/csmajors-swe-opportunities/tree/main) to get experience before applying
-
-📩 [Sign up for email alerts](https://forms.gle/kgpR4Agk8C3sAwgN8) to get notified when top SWE internships open
+<p style="color:#e11d48;">
+👉 <a href="https://github.com/hiredmaybe67/csmajors-swe-opportunities/tree/main" style="color:#e11d48; font-weight:500;">
+Company Events & Resume Builders
+</a> to get experience before applying
+</p>
 
 </div>
+
 # 🚀 Summer 2027 Software Engineering Internships 
 
 Looking to land a SWE internship in 2027? This page tracks early openings, application timelines, and direct links so you don’t miss deadlines.
