@@ -1,6 +1,13 @@
-# Citadel 
-OA's are automatic. super hard 
-not a whole lot of interview resources.
+# Google
+#### Getting an Interview
+OA isn't automatic.
+
+#### During the interview
+
+
+# Microsoft
+#### Getting an Interview
+#### During the interview
 
 
 # Amazon
@@ -30,6 +37,11 @@ The Online assessment is automatic, and its the [GCA](https://www.reddit.com/r/c
 
 #### During the interview
 
+
+
+# Citadel 
+OA's are automatic. super hard 
+not a whole lot of interview resources.
 
 # JP Morgan
 #### Getting an Interview
