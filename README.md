@@ -23,7 +23,8 @@ BlackRock | Technology Intern | Multiple Locations | [apply](https://careers.bla
 | | Launch Intern | Chicago, Miami, New York | [apply](https://www.citadel.com/careers/details/launch-intern-us/)| | | [Tips](info/README.md/#Citadel💵) | 4,800/wk |
 
 ## ⏳ COMING SOON WHEN TO EXPECT COMING SOON
-Get ahead, when top companies have opened applications in recent years
+Get ahead! Here is when top companies have opened applications for summer 2026
+
 | 💼 Company | 👷 Role | 📅 Date Posted | Tips💡 | create a candidate profile |  
 |--------|------|----------|------|-------------|
 | Google | SWE Intern | August 25 | [Tips](info/README.md/#Google💻)|
