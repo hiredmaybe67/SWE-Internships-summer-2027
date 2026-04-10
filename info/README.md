@@ -46,7 +46,7 @@
 - Capital One [Recruiter Q&A](https://capitalone.eightfold.ai/events/candidate?plannedEventId=1WAyZA0W&domain=capitalone.com)
   
 #### 🚀 Passing the Interview
-One unique thing they do is a case interview, but they hold virtual sessions to [ace it]().
+Superday! 3 interviews back to back. One unique thing they do is a case interview, but they hold virtual sessions to [ace it]().
 
 
 # Citadel💵
