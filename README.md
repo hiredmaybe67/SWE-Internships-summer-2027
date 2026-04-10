@@ -30,9 +30,9 @@ Get ahead! Here is when top companies have opened applications for summer 2026
 | Google | SWE Intern | August 25 | [Tips](info/README.md/#Google💻)|
 | Amazon | SWE Intern | Oct 4 | [Tips](info/README.md/#Amazon💻)|
 | Capital One | SWE Intern | August 4 | [Tips](info/README.md/#CapitalOne💻)|
-| Figma | SWE Intern | August 19 | [Tips](info/README.md/)|
-| Microsoft | SWE Intern | August 13 | [Tips](info/README.md/)|
-| HRT | SWE Intern | July 28 | [Tips](info/README.md/)|
-| Netflix | SWE Intern | October 2025 | [Tips](info/README.md/)|
+| Figma | SWE Intern | August 19 | |
+| Microsoft | SWE Intern | August 13 | [Tips](info/README.md/#Microsoft💻)|
+| HRT | SWE Intern | July 28 | |
+| Netflix | SWE Intern | October 2025 | [Tips](info/README.md/Netflix)|
 
 ---
