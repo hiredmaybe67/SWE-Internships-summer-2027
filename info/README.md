@@ -14,3 +14,5 @@ No OA, first round is a phone call.
 
 # Epic Systems 
 OA isn't LeetCode style, its an untimed IQ style test that tests quick thinking and mental math, as well as a challenge where you have to learn and are tested about this made up coding language to see how fast you can learn. You aren't timed on this, but they do factor how long you take to complete it into your score. 
+
+To prepare i'd brush up on a ton of easy mental math (addition, subtraction, multiplication, division) and get quick at it.
