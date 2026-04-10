@@ -17,7 +17,7 @@ Acquatic Capital | Quantitative Researcher | Chicago, IL | [apply](https://job-b
 | Citadel | Quantitative Research Intern | Greenwich, Miami, New York | [apply](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-us/) | | | [Tips](info/README.md/#Citadel💵) | 5800/wk |
 | | Launch Intern | Chicago, Miami, New York | [apply](https://www.citadel.com/careers/details/launch-intern-us/)| | | [Tips](info/README.md/#Citadel💵) | 4,800/wk |
 
-## ⏳ Expected Open Dates for Top Internships
+## ⏳ Coming Soon (When Top Internships Open)
 
 These dates are based on when companies opened applications for Summer 2026. Use this as a guide to know when to start checking and applying for Summer 2027 roles.
 
