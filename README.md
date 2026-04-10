@@ -21,7 +21,7 @@ Epic Systems | Software Engineering Intern | Madison WI| [apply](https://epic.av
 Acquatic Capital | Quantitative Researcher | Chicago, IL | [apply](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002) | April 9| Open | Info |
 BlackRock | Technology Intern | Multiple Locations | [apply](https://careers.blackrock.com/job/new-york/2027-summer-internship-program-amers/45831/90628276544) | - | Opens in July 2026 | Info |
 | Citadel | Quantitative Research Analyst Intern | Greenwich, Miami, New York | [apply](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-us/) | Info |
-| | Launch Intern | Chicago, Miami, New York | [apply](https://www.citadel.com/careers/details/launch-intern-us/)| [[Info](info/README.md/#Microsoft)] |
+| | Launch Intern | Chicago, Miami, New York | [apply](https://www.citadel.com/careers/details/launch-intern-us/)| [[Info](info/README.md/#Citadel)] |
 
 
 
