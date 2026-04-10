@@ -23,6 +23,7 @@
 
 #### 🚀 Passing the Interview
 - During the Interview, its really important to make sure your answers emphisize the [Amazon Leadership Principles](https://www.amazon.jobs/content/en/our-workplace/leadership-principles). Also, Amazon is very fast paced and action oriented, and its important in the interview process to show that you're proactive.
+- live coding questions and asks you about your experiance
 
 # Palantir📊
 #### 📨 Getting an Interview
@@ -49,8 +50,11 @@ One unique thing they do is a case interview, but they hold virtual sessions to 
 
 
 # Citadel💵
-- OA's are automatic. super hard 
-- not a whole lot of interview resources.
+#### 📨 Getting an Interview
+OA's are automatic, but very hard. Even if you pass the OA, its difficult to get through to interviews.
+
+#### 🚀 Passing the Interview
+Operating systems concepts, live coding.
 
 # JP Morgan 🏦
 #### 📨 Getting an Interview
