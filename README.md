@@ -44,6 +44,9 @@ These dates are based on when companies opened applications for Summer 2026. Use
 ---
 ## 🧠 Insider Advice
 Advice + interview questions from real candidates
+
+---
+
 ### Google
 ##### 📨 Getting an Interview
 -  OA isn't automatic
