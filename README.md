@@ -2,7 +2,7 @@
 
 Looking to land a SWE internship in 2027? This page tracks early openings, application timelines, and direct links so you don’t miss deadlines.
 
-💡[Tips](info/README.md) and past interview questions from people who actually interviewed and got interviews avalible under the tips column.
+🧠 [Insider Insights](info/README.md) and past interview questions from people who actually interviewed and got interviews avalible under the tips column.
 
 👉 [Company Events & Resume Builders](https://github.com/hiredmaybe67/csmajors-swe-opportunities/tree/main) to get experience before applying
 
@@ -10,7 +10,7 @@ Looking to land a SWE internship in 2027? This page tracks early openings, appli
 
 ---
 ## ⏰ Open Now
-| 💼 Company | 👷 Role | 🌎 Location | 🔗 Link | 📅 Date Posted | ⏳ Status | Tips💡 | 💰 Pay |
+| 💼 Company | 👷 Role | 🌎 Location | 🔗 Link | 📅 Date Posted | ⏳ Status | 🧠 Insider Insights | 💰 Pay |
 |--------|------|----------|------|-------------|--------| ---| -- |
 Epic Systems | Software Engineering Intern | Madison WI| [apply](https://epic.avature.net/Careers/FolderDetail/Software-Developer-Intern---Summer-2027/30318) | April 9 |  Open | [Tips](info/README.md/#Epic🏥) | $42/hr |
 Acquatic Capital | Quantitative Researcher | Chicago, IL | [apply](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002) | April 9| Open | Tips |
