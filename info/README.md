@@ -46,5 +46,11 @@ not a whole lot of interview resources.
 
 # JP Morgan 🏦
 #### Getting an Interview
+They do an OA through hackerrank.
+They provide [valued qualities and key skills](https://www.jpmorganchase.com/careers/explore-opportunities/programs/software-engineer-fulltime).
+Heres a [job simulation](https://www.theforage.com/simulations/jpmorgan/advanced-software-engineering-r0fm) through JPMC you can complete and put on your resume. 
+[Code for Good](https://www.jpmorganchase.com/careers/explore-opportunities/programs/tfsg-hackathons) is a hackathon they host, and they tend to interview participants.  
+
+
 #### During the interview
 
