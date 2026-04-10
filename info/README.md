@@ -36,8 +36,11 @@
 # Capital One 🏦
 #### 📨 Getting an Interview
   The Online assessment is automatic, and its the [GCA](https://www.reddit.com/r/csMajors/comments/1aiu1kd/capital_one_codesignal_gca/). Its important to get a good score to get an interview, and I know serveral poeple getting interviews just by getting a 600.
-
+- Capital One virtual [Ace the coding assesment](https://capitalone.eightfold.ai/events/candidate?plannedEventId=yP2MG2Mz&domain=capitalone.com)
+- Capital One [Recruiter Q&A](https://capitalone.eightfold.ai/events/candidate?plannedEventId=1WAyZA0W&domain=capitalone.com)
+  
 #### 🚀 Passing the Interview
+One unique thing they do is a case interview, but they hold virtual sessions to [ace it]().
 
 
 # Citadel💵
