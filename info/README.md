@@ -1,12 +1,14 @@
 # Google 💻
 #### Getting an Interview
-OA isn't automatic.
+OA isn't automatic. Applying early is VITAL due to the high volume of applications.
 
 #### During the interview
 
 
 # Microsoft 💻
 #### Getting an Interview
+I've heard refferealls aren't that impactful. 
+
 #### During the interview
 
 
