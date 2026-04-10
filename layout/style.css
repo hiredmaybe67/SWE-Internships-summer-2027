@@ -1,0 +1,17 @@
+/* Default links */
+a {
+  color: #2563eb; /* blue */
+  text-decoration: none;
+}
+
+/* Intro section links only */
+.intro a {
+  color: #e11d48; /* pink/red accent */
+  font-weight: 500;
+}
+
+/* Optional hover effect */
+.intro a:hover {
+  color: #be123c;
+  text-decoration: underline;
+}
