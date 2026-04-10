@@ -15,7 +15,7 @@ Looking to land a SWE internship in 2027? This page tracks early openings, appli
 ⏳ [Historical timeline for releasing applications](anticipated-dates/README.md)
 
 ---
-
+## OPEN NOW 
 | 💼 Company | 👷 Role | 🌎 Location | 🔗 Link | 📅 Date Posted | ⏳ Status | Tips💡 | 💰 Pay |
 |--------|------|----------|------|-------------|--------| ---| -- |
 Epic Systems | Software Engineering Intern | Madison WI| [apply](https://epic.avature.net/Careers/FolderDetail/Software-Developer-Intern---Summer-2027/30318) | April 9 |  Open | [Tips](info/README.md/#Epic🏥) | $42/hr |
