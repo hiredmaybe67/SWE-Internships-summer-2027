@@ -26,7 +26,7 @@ These dates are based on when companies opened applications for Summer 2026. Use
 
 | 💼 Company | 👷 Role | 📅 Date Posted | 🧠 Insider Insights | create a candidate profile |  
 |--------|------|----------|------|-------------|
-| Google | SWE Intern | August 25 | [Tips](###Google)|
+| Google | SWE Intern | August 25 | [Tips](#google)|
 | Amazon | SWE Intern | Oct 4 | [Tips](info/README.md/##Amazon💻)|
 | Capital One | SWE Intern | August 4 | [Tips](info/README.md/##CapitalOne💻)|
 | Figma | SWE Intern | August 19 | |
