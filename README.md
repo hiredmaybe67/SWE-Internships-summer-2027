@@ -1,7 +1,5 @@
 # 🚀 Summer 2027 Software Engineering Internships 
 
-Updated list of Summer 2027 software engineering internships, quant internships, and tech internships. Be the first to apply to top companies.
-
 Looking to land a SWE internship in 2027? This page tracks early openings, application timelines, and direct links so you don’t miss deadlines.
 
 💡[Tips](info/README.md) and past interview questions from people who actually interviewed and got interviews avalible under the tips column.
