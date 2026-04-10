@@ -22,10 +22,11 @@ Acquatic Capital | Quantitative Researcher | Chicago, IL | [apply](https://job-b
 ## ⏳ Coming Soon (When Top Internships Open)
 
 These dates are based on when companies opened applications for Summer 2026. Use this as a guide to know when to start checking and applying for Summer 2027 roles.
+| Google | SWE Intern | August 25 | [Tips](info/README.md/##Google💻)|
 
 | 💼 Company | 👷 Role | 📅 Date Posted | 🧠 Insider Insights | create a candidate profile |  
 |--------|------|----------|------|-------------|
-| Google | SWE Intern | August 25 | [Tips](info/README.md/##Google💻)|
+| Google | SWE Intern | August 25 | [Tips](###Google)|
 | Amazon | SWE Intern | Oct 4 | [Tips](info/README.md/##Amazon💻)|
 | Capital One | SWE Intern | August 4 | [Tips](info/README.md/##CapitalOne💻)|
 | Figma | SWE Intern | August 19 | |
@@ -33,5 +34,12 @@ These dates are based on when companies opened applications for Summer 2026. Use
 | HRT | SWE Intern | July 28 | |
 | Netflix | SWE Intern | October 2025 | [Tips](info/README.md/##Netflix)|
 | BlackRock | Technology Intern | July | [apply](https://careers.blackrock.com/job/new-york/2027-summer-internship-program-amers/45831/90628276544) |
+
+
+
+## Insider Advice
+
+### Google
+Rolling basis
 
 ---
