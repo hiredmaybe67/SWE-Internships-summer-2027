@@ -2,7 +2,7 @@
 
 Looking to land a SWE internship in 2027? This page tracks early openings, application timelines, and direct links so you don’t miss deadlines.
 
-🧠 [Insider Insights](info/README.md) and past interview questions from people who actually interviewed and got interviews avalible under the tips column.
+🧠 [Insider Insights](info/README.md) (real interview questions + tips from candidates)
 
 👉 [Company Events & Resume Builders](https://github.com/hiredmaybe67/csmajors-swe-opportunities/tree/main) to get experience before applying
 
