@@ -22,7 +22,6 @@ Acquatic Capital | Quantitative Researcher | Chicago, IL | [apply](https://job-b
 ## ⏳ Coming Soon (When Top Internships Open)
 
 These dates are based on when companies opened applications for Summer 2026. Use this as a guide to know when to start checking and applying for Summer 2027 roles.
-| Google | SWE Intern | August 25 | [Tips](info/README.md/##Google💻)|
 
 | 💼 Company | 👷 Role | 📅 Date Posted | 🧠 Insider Insights | create a candidate profile |  
 |--------|------|----------|------|-------------|
@@ -40,6 +39,13 @@ These dates are based on when companies opened applications for Summer 2026. Use
 ## Insider Advice
 
 ### Google
-Rolling basis
+#### 📨 Getting an Interview
+-  OA isn't automatic. Applying early is VITAL due to the high volume of applications.
+- They offer extensive information into [how they hire](https://www.google.com/about/careers/applications/how-we-hire/)
+- List of [OA questions](https://algo.monster/problems/google_online_assessment_questions) to prepare
+  
+#### 🚀 Passing the Interview
+- [Interview Questions](https://www.glassdoor.com/Interview/Google-Software-Engineer-Intern-Interview-Questions-EI_IE9079.0,6_KO7,31.htm)
+- [More Questions](https://leetcode.com/discuss/post/6034578/google-swe-intern-2025-interview-experie-exdm/)
 
 ---
