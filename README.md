@@ -12,8 +12,6 @@ Looking to land a SWE internship in 2027? This page tracks early openings, appli
 📩 Get notified when top SWE internships open:
 [Sign up for email alerts](https://forms.gle/kgpR4Agk8C3sAwgN8)
 
-⏳ [Historical timeline for releasing applications](anticipated-dates/README.md)
-
 ---
 ## OPEN NOW 
 | 💼 Company | 👷 Role | 🌎 Location | 🔗 Link | 📅 Date Posted | ⏳ Status | Tips💡 | 💰 Pay |
