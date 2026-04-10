@@ -18,4 +18,4 @@ OA isn't LeetCode style, its an untimed IQ style test that tests quick thinking 
 To prepare i'd brush up on a ton of easy mental math (addition, subtraction, multiplication, division) and get quick at it.
 
 # Capital One
-OA (Automatic) [GCA](https://www.reddit.com/r/csMajors/comments/1aiu1kd/capital_one_codesignal_gca/). Its important to get a good score to get an interview, and I know serveral poeple getting interviews just by getting a 600. 
+The Online assessment is automatic, and its the [GCA](https://www.reddit.com/r/csMajors/comments/1aiu1kd/capital_one_codesignal_gca/). Its important to get a good score to get an interview, and I know serveral poeple getting interviews just by getting a 600.
