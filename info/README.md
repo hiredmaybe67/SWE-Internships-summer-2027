@@ -40,7 +40,7 @@
 #### 🚀 Passing the Interview
 
 
-# Citadel 💵
+# Citadel💵
 - OA's are automatic. super hard 
 - not a whole lot of interview resources.
 
