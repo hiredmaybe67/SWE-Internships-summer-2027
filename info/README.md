@@ -1,7 +1,9 @@
 # Google 💻
 #### 📨 Getting an Interview
 -  OA isn't automatic. Applying early is VITAL due to the high volume of applications.
+- They offer extensive information into [how they hire](https://www.google.com/about/careers/applications/how-we-hire/)
 
+  
 #### 🚀 Passing the Interview
 
 
