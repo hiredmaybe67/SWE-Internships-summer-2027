@@ -42,7 +42,7 @@
 #### 🚀 Passing the Interview
 
 ## Capital One 🏦
-#### 📨 Getting an Interview
+**📨 Getting an Interview**
   The Online assessment is automatic, and its the [GCA](https://www.reddit.com/r/csMajors/comments/1aiu1kd/capital_one_codesignal_gca/). Its important to get a good score to get an interview, and I know serveral poeple getting interviews just by getting a 600.
 - Capital One virtual [Ace the coding assesment](https://capitalone.eightfold.ai/events/candidate?plannedEventId=yP2MG2Mz&domain=capitalone.com)
 - Capital One [Recruiter Q&A](https://capitalone.eightfold.ai/events/candidate?plannedEventId=1WAyZA0W&domain=capitalone.com)
@@ -52,14 +52,14 @@ Superday! 3 interviews back to back. One unique thing they do is a case intervie
 
 
 ## Citadel💵
-#### 📨 Getting an Interview
+**📨 Getting an Interview**
 OA's are automatic, but very hard. Even if you pass the OA, its difficult to get through to interviews.
 
 #### 🚀 Passing the Interview
 Operating systems concepts, live coding.
 
 ## JPMorgan🏦
-#### 📨 Getting an Interview
+**📨 Getting an Interview**
 - They do an OA through hackerrank. They provide [valued qualities and key skills](https://www.jpmorganchase.com/careers/explore-opportunities/programs/software-engineer-fulltime).
 - Heres a [job simulation](https://www.theforage.com/simulations/jpmorgan/advanced-software-engineering-r0fm) through JPMC you can complete and put on your resume. 
 - [Code for Good](https://www.jpmorganchase.com/careers/explore-opportunities/programs/tfsg-hackathons) is a hackathon they host, and they tend to interview participants.  
