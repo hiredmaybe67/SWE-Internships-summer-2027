@@ -35,11 +35,11 @@ These dates are based on when companies opened applications for Summer 2026. Use
 | JP Morgan | SWE Intern | July | [Tips](#jp-morgan) |
 | BlackRock | Technology Intern | July | [apply](https://careers.blackrock.com/job/new-york/2027-summer-internship-program-amers/45831/90628276544) |
 | Uber | SWE Intern | 📅 Date Posted | [tips](#uber) |  
-| - | SWE Intern | 📅 Date Posted | [tips](#uber) |  
-| - | SWE Intern | 📅 Date Posted | [tips](#uber) |  
-| - | SWE Intern | 📅 Date Posted | [tips](#uber) |  
-| - | SWE Intern | 📅 Date Posted | [tips](#uber) |  
-| - | SWE Intern | 📅 Date Posted | [tips](#uber) |  
+| - | SWE Intern | 📅 Date Posted | [tips](#-) |  
+| - | SWE Intern | 📅 Date Posted | [tips](#-) |  
+| - | SWE Intern | 📅 Date Posted | [tips](#-) |  
+| - | SWE Intern | 📅 Date Posted | [tips](#-) |  
+| - | SWE Intern | 📅 Date Posted | [tips](#-) |  
 
 ---
 ## 🧠 Insider Advice
