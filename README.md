@@ -37,7 +37,7 @@ These dates are based on when companies opened applications for Summer 2026. Use
 
 
 
-## Insider Advice
+## 🧠 Insider Advice
 
 ### Google
 ##### 📨 Getting an Interview
@@ -49,6 +49,7 @@ These dates are based on when companies opened applications for Summer 2026. Use
 ##### 🚀 Passing the Interview
 - [Interview Questions](https://www.glassdoor.com/Interview/Google-Software-Engineer-Intern-Interview-Questions-EI_IE9079.0,6_KO7,31.htm)
 - [More Questions](https://leetcode.com/discuss/post/6034578/google-swe-intern-2025-interview-experie-exdm/)
+---
 
 ### Microsoft
 ##### 📨 Getting an Interview
@@ -58,6 +59,7 @@ These dates are based on when companies opened applications for Summer 2026. Use
 
 ##### 🚀 Passing the Interview
 
+---
 
 ### Amazon
 ##### 📨 Getting an Interview 
@@ -66,6 +68,7 @@ These dates are based on when companies opened applications for Summer 2026. Use
 ##### 🚀 Passing the Interview
 - During the Interview, its really important to make sure your answers emphisize the [Amazon Leadership Principles](https://www.amazon.jobs/content/en/our-workplace/leadership-principles). Also, Amazon is very fast paced and action oriented, and its important in the interview process to show that you're proactive.
 - live coding questions and asks you about your experiance
+---
 
 ### Palantir
 ##### 📨 Getting an Interview
@@ -73,6 +76,7 @@ These dates are based on when companies opened applications for Summer 2026. Use
 
 ##### 🚀 Passing the Interview
 - first round is a phone call [advice from their site](https://www.palantir.com/careers/getting-hired/the-phone-interview/). Defenitly know your resume and be ready to answer questions about your experiance that go below the surface. Its importnant that you can explain the technical decisions you made and just knowing the choices and impact that went into your expeirance. 
+---
 
 ### Epic Systems
 ##### 📨 Getting an Interview
@@ -80,6 +84,7 @@ These dates are based on when companies opened applications for Summer 2026. Use
 - To prepare i'd brush up on a ton of easy mental math (addition, subtraction, multiplication, division) and get quick at it.
 
 ##### 🚀 Passing the Interview
+---
 
 ### Capital One
 ##### 📨 Getting an Interview
@@ -90,7 +95,7 @@ These dates are based on when companies opened applications for Summer 2026. Use
 ##### 🚀 Passing the Interview
 Superday! 3 interviews back to back. One unique thing they do is a case interview, but they hold virtual sessions to [ace it]().
 
-
+---
 ### Citadel
 ##### 📨 Getting an Interview
 OA's are automatic, but very hard. Even if you pass the OA, its difficult to get through to interviews.
@@ -98,6 +103,7 @@ OA's are automatic, but very hard. Even if you pass the OA, its difficult to get
 ##### 🚀 Passing the Interview
 Operating systems concepts, live coding.
 
+---
 ### JP Morgan
 ##### 📨 Getting an Interview
 - They do an OA through hackerrank. They provide [valued qualities and key skills](https://www.jpmorganchase.com/careers/explore-opportunities/programs/software-engineer-fulltime).
@@ -107,6 +113,7 @@ Operating systems concepts, live coding.
 
 ##### 🚀 Passing the Interview
 
+---
 ### Netflix
 ##### 📨 Getting an Interview
 - OA
