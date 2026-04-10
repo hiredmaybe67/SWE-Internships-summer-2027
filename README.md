@@ -17,7 +17,7 @@ Looking to land a SWE internship in 2027? This page tracks early openings, appli
 Epic Systems | Software Engineering Intern | Madison WI| [apply](https://epic.avature.net/Careers/FolderDetail/Software-Developer-Intern---Summer-2027/30318) | April 9 |  Open | [Tips](#epic-systems) | $42/hr |
 Acquatic Capital | Quantitative Researcher | Chicago, IL | [apply](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002) | April 9| Open | Tips |
 | Citadel | Quantitative Research Intern | Miami, NYC | [apply](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-us/) | | | [Tips](info/README.md/##Citadel💵) | 5800/wk |
-| | Launch Intern | Miami, NYC | [apply](https://www.citadel.com/careers/details/launch-intern-us/)| | | [Tips](info/README.md/##Citadel💵) | 4,800/wk |
+| | Launch Intern | Miami, NYC | [apply](https://www.citadel.com/careers/details/launch-intern-us/)| | | [Tips](#citadel) | 4,800/wk |
 
 ## ⏳ Coming Soon (When Top Internships Open)
 
@@ -26,12 +26,12 @@ These dates are based on when companies opened applications for Summer 2026. Use
 | 💼 Company | 👷 Role | 📅 Date Posted | 🧠 Insider Insights | create a candidate profile |  
 |--------|------|----------|------|-------------|
 | Google | SWE Intern | August 25 | [Tips](#google)|
-| Amazon | SWE Intern | Oct 4 | [Tips](info/README.md/##Amazon💻)|
-| Capital One | SWE Intern | August 4 | [Tips](info/README.md/##CapitalOne💻)|
+| Amazon | SWE Intern | Oct 4 | [Tips](#amazon)|
+| Capital One | SWE Intern | August 4 | [Tips](#capital-one)|
 | Figma | SWE Intern | August 19 | |
-| Microsoft | SWE Intern | August 13 | [Tips](info/README.md/##Microsoft💻)|
+| Microsoft | SWE Intern | August 13 | [Tips](#microsoft)|
 | HRT | SWE Intern | July 28 | |
-| Netflix | SWE Intern | October 2025 | [Tips](info/README.md/##Netflix)|
+| Netflix | SWE Intern | October 2025 | [Tips](#netflix)|
 | BlackRock | Technology Intern | July | [apply](https://careers.blackrock.com/job/new-york/2027-summer-internship-program-amers/45831/90628276544) |
 
 
