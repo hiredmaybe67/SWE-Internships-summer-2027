@@ -5,7 +5,7 @@
 - List of [OA questions](https://algo.monster/problems/google_online_assessment_questions) to prepare
   
 #### 🚀 Passing the Interview
-
+- [Interview Questions](https://www.glassdoor.com/Interview/Google-Software-Engineer-Intern-Interview-Questions-EI_IE9079.0,6_KO7,31.htm)
 
 # Microsoft 💻
 #### 📨 Getting an Interview
