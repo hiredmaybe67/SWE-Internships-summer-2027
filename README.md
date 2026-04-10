@@ -21,7 +21,7 @@ Acquatic Capital | Quantitative Researcher | Chicago, IL | [apply](https://job-b
 
 These dates are based on when companies opened applications for Summer 2026. Use this as a guide to know when to start checking and applying for Summer 2027 roles.
 
-| 💼 Company | 👷 Role | 📅 Date Posted | Tips💡 | create a candidate profile |  
+| 💼 Company | 👷 Role | 📅 Date Posted | 🧠 Insider Insights | create a candidate profile |  
 |--------|------|----------|------|-------------|
 | Google | SWE Intern | August 25 | [Tips](info/README.md/#Google💻)|
 | Amazon | SWE Intern | Oct 4 | [Tips](info/README.md/#Amazon💻)|
