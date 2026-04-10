@@ -1,7 +1,7 @@
 <div>
 
 <p style="color:#e11d48;">
-👉 <a href="https://github.com/hiredmaybe67/csmajors-swe-opportunities/tree/main" style="color:#e11d48; font-weight:500;">
+👉 <a href="https://github.com/hiredmaybe67/csmajors-swe-opportunities/tree/main" style="color:#000000; font-weight:500;">
 Company Events & Resume Builders
 </a> to get experience before applying
 </p>
