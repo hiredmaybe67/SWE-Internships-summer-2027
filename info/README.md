@@ -6,11 +6,13 @@
   
 #### 🚀 Passing the Interview
 - [Interview Questions](https://www.glassdoor.com/Interview/Google-Software-Engineer-Intern-Interview-Questions-EI_IE9079.0,6_KO7,31.htm)
+- [More Questions](https://leetcode.com/discuss/post/6034578/google-swe-intern-2025-interview-experie-exdm/)
 
 # Microsoft 💻
 #### 📨 Getting an Interview
 -   I've heard refferealls aren't that impactful.
 -   [Microsoft Technical Interviewing](https://careers.microsoft.com/v2/global/en/hiring-tips/technical-interviewing)
+
 
 #### 🚀 Passing the Interview
 
