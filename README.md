@@ -4,6 +4,8 @@ Updated list of Summer 2027 software engineering internships, quant internships,
 
 Looking to land a SWE internship in 2027? This page tracks early openings, application timelines, and direct links so you don’t miss deadlines.
 
+TIPs (from people who actually interviewed and got interviews) avalible under the tips column, or [here](info/README.md).
+
 👉 Need experience before applying? Check out resume-building opportunities, recruiting events, and programs here:
 [Company Events & Resume Builders](https://github.com/hiredmaybe67/csmajors-swe-opportunities/tree/main)
 
