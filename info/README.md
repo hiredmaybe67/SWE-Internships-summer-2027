@@ -1,20 +1,20 @@
 # Google 💻
 #### 📨 Getting an Interview
-OA isn't automatic. Applying early is VITAL due to the high volume of applications.
+  OA isn't automatic. Applying early is VITAL due to the high volume of applications.
 
 #### 🚀 Passing the Interview
 
 
 # Microsoft 💻
 #### 📨 Getting an Interview
-I've heard refferealls aren't that impactful. 
+  I've heard refferealls aren't that impactful. 
 
 #### 🚀 Passing the Interview
 
 
 # Amazon 💻
 #### 📨 Getting an Interview
-OA isn't automatic. Even if you bomb it you can get an interview. I've heard people getting interviews super late in the recruiting season. Leetcode style interview thats 2 medium level questions. Defenitly do a ton of leetcode and do the Amazon tagged, although the bank of questions thats Amazon tagged is so big that its almost too hard to do them all.
+  OA isn't automatic. Even if you bomb it you can get an interview. I've heard people getting interviews super late in the recruiting season. Leetcode style interview thats 2 medium level questions. Defenitly do a ton of leetcode and do the Amazon      tagged, although the bank of questions thats Amazon tagged is so big that its almost too hard to do them all.
 
 #### 🚀 Passing the Interview
 During the Interview, its really important to make sure your answers emphisize the [Amazon Leadership Principles](https://www.amazon.jobs/content/en/our-workplace/leadership-principles). Also, Amazon is very fast paced and action oriented, and its important in the interview process to show that you're proactive.
