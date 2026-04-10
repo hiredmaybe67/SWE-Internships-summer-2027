@@ -20,7 +20,7 @@ Looking to land a SWE internship in 2027? This page tracks early openings, appli
 Epic Systems | Software Engineering Intern | Madison WI| [apply](https://epic.avature.net/Careers/FolderDetail/Software-Developer-Intern---Summer-2027/30318) | April 9 |  Open | [Tips](info/README.md/#Epic🏥) | $42/hr |
 Acquatic Capital | Quantitative Researcher | Chicago, IL | [apply](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002) | April 9| Open | Tips |
 BlackRock | Technology Intern | Multiple Locations | [apply](https://careers.blackrock.com/job/new-york/2027-summer-internship-program-amers/45831/90628276544) | - | Opens in July | Info |
-| Citadel | Quantitative Research Intern | Greenwich, Miami, New York | [apply](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-us/) | | | [Tips](info/README.md/#Citadel) | 5800/wk |
+| Citadel | Quantitative Research Intern | Greenwich, Miami, New York | [apply](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-us/) | | | [Tips](info/README.md/#Citadel💵) | 5800/wk |
 | | Launch Intern | Chicago, Miami, New York | [apply](https://www.citadel.com/careers/details/launch-intern-us/)| | | [Tips](info/README.md/#Citadel💵) | 4,800/wk |
 
 
