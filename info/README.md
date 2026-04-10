@@ -1,1 +1,9 @@
-Everything I know
+# Everything I know
+
+
+
+# Amazon 
+
+# Microsoft
+
+# Capital One
