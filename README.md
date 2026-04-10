@@ -24,7 +24,7 @@ BlackRock | Technology Intern | Multiple Locations | [apply](https://careers.bla
 
 ## ⏳ COMING SOON WHEN TO EXPECT COMING SOON
 Get ahead, when top companies have opened applications in recent years
-| 💼 Company | 👷 Role | 📅 Date Posted | Tips💡 | candidate profile |  
+| 💼 Company | 👷 Role | 📅 Date Posted | Tips💡 | create a candidate profile |  
 |--------|------|----------|------|-------------|
 | Google | SWE Intern | August 25 | [Tips](info/README.md/#Google💻)|
 | Amazon | SWE Intern | Oct 4 | [Tips](info/README.md/#Amazon💻)|
