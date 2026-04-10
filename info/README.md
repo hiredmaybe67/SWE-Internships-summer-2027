@@ -20,3 +20,5 @@ To prepare i'd brush up on a ton of easy mental math (addition, subtraction, mul
 
 # Capital One
 The Online assessment is automatic, and its the [GCA](https://www.reddit.com/r/csMajors/comments/1aiu1kd/capital_one_codesignal_gca/). Its important to get a good score to get an interview, and I know serveral poeple getting interviews just by getting a 600.
+
+## During the interview
