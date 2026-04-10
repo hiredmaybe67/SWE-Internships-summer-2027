@@ -27,5 +27,10 @@ Get ahead, when top companies have opened applications in recent years
 | 💼 Company | 👷 Role | 📅 Date Posted | Tips💡 | candidate profile |  
 |--------|------|----------|------|-------------|
 | Google | SWE Intern | August 25 | [Tips](info/README.md/#Google💻)|
+| Amazon | SWE Intern | Oct 4 | [Tips](info/README.md/#Amazon💻)|
+| Capital One | SWE Intern | August 4 | [Tips](info/README.md/#CapitalOne💻)|
+| Figma | SWE Intern | August 19 | [Tips](info/README.md/)|
+| Microsoft | SWE Intern | August 13 | [Tips](info/README.md/)|
+| HRT | SWE Intern | July 28 | [Tips](info/README.md/)|
 
 ---
