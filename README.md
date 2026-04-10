@@ -33,5 +33,6 @@ Get ahead! Here is when top companies have opened applications for summer 2026
 | Figma | SWE Intern | August 19 | [Tips](info/README.md/)|
 | Microsoft | SWE Intern | August 13 | [Tips](info/README.md/)|
 | HRT | SWE Intern | July 28 | [Tips](info/README.md/)|
+| Netflix | SWE Intern | October 2025 | [Tips](info/README.md/)|
 
 ---
