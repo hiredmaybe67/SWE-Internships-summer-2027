@@ -9,7 +9,8 @@
 
 # Microsoft 💻
 #### 📨 Getting an Interview
--   I've heard refferealls aren't that impactful. 
+-   I've heard refferealls aren't that impactful.
+-   [Microsoft Technical Interviewing](https://careers.microsoft.com/v2/global/en/hiring-tips/technical-interviewing)
 
 #### 🚀 Passing the Interview
 
