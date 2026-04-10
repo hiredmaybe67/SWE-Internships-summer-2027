@@ -6,8 +6,7 @@ Looking to land a SWE internship in 2027? This page tracks early openings, appli
 
 👉 [Company Events & Resume Builders](https://github.com/hiredmaybe67/csmajors-swe-opportunities/tree/main) to get experience before applying
 
-📩 Get notified when top SWE internships open:
-[Sign up for email alerts](https://forms.gle/kgpR4Agk8C3sAwgN8)
+📩 [Sign up for email alerts](https://forms.gle/kgpR4Agk8C3sAwgN8) to Get notified when top SWE internships open
 
 ---
 ## ⏰ OPEN NOW 
